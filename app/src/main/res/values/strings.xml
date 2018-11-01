@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab2_2Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="visit_taruc">VISIT TARUC</string>
+    <string name="show_main">SHOW MAIN</string>
+    <string name="dial_012345678">DIAL 012345678</string>
+    <string name="email_to_info_tarc_edu_my">EMAIL TO INFO@TARC.EDU.MY</string>
+    <string name="about_us">About Us</string>
+</resources>
